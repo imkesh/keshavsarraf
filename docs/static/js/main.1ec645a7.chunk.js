@@ -1183,7 +1183,7 @@
                         l.a.createElement("img", {
                           className: "skill-image",
                           style: e.style,
-                          src: "/home/skills/" + e.imageSrc,
+                          src: "/keshavsarraf/skills/" + e.imageSrc,
                           alt: e.skillName,
                         })
                     )
@@ -7419,4 +7419,4 @@
   ]),
   [[89, 1, 2]],
 ]);
-//# sourceMappingURL=main.8843a58e.chunk.js.map
+//# sourceMappingURL=main.1ec645a7.chunk.js.map
