@@ -47,72 +47,6 @@
     ,
     ,
     function (e, t, a) {},
-    function (e, t, a) {
-      var r = {
-        "./address_image.svg": 123,
-        "./animated_ashutosh.png": 124,
-        "./animated_logo.svg": 125,
-        "./blogs_image.svg": 126,
-        "./cloud_infrastructure.svg": 127,
-        "./codeInLogo.png": 128,
-        "./contactMail.png": 129,
-        "./coursera_logo.png": 130,
-        "./data_science.svg": 131,
-        "./deeplearning_ai_logo.png": 132,
-        "./delhivery_logo.png": 133,
-        "./developerActivity.svg": 134,
-        "./dsc_logo.png": 135,
-        "./education.svg": 136,
-        "./experience.svg": 137,
-        "./feelingProud.svg": 138,
-        "./freecopy_logo.png": 139,
-        "./fullstack.svg": 140,
-        "./gcp_logo.png": 141,
-        "./github_logo.png": 142,
-        "./googleAssistant.jpg": 143,
-        "./googleAssistant.svg": 144,
-        "./google_logo.png": 145,
-        "./ibm_logo.png": 146,
-        "./iiitk_logo.png": 147,
-        "./intel_logo.jpg": 148,
-        "./iu_logo.png": 149,
-        "./jsFramework.svg": 150,
-        "./legato_logo.png": 151,
-        "./manOnTable.svg": 152,
-        "./microsoft_logo.png": 153,
-        "./mozilla_logo.png": 154,
-        "./muffito_logo.png": 155,
-        "./nextuLogo.jpg": 156,
-        "./nptel_logo.png": 157,
-        "./portfolio.gif": 158,
-        "./programmer.svg": 159,
-        "./projects_image.svg": 160,
-        "./pwa.png": 161,
-        "./saayaHealthLogo.png": 162,
-        "./stanford_logo.png": 163,
-        "./talksCardBack.svg": 164,
-        "./talksCardBackAlt.svg": 165,
-        "./tiktok_logo.png": 166,
-        "./ui_ux_design.svg": 167,
-      };
-      function l(e) {
-        var t = s(e);
-        return a(t);
-      }
-      function s(e) {
-        if (!a.o(r, e)) {
-          var t = new Error("Cannot find module '" + e + "'");
-          throw ((t.code = "MODULE_NOT_FOUND"), t);
-        }
-        return r[e];
-      }
-      (l.keys = function () {
-        return Object.keys(r);
-      }),
-        (l.resolve = s),
-        (e.exports = l),
-        (l.id = 63);
-    },
     ,
     ,
     ,
@@ -184,6 +118,72 @@
     function (e, t, a) {},
     function (e, t, a) {},
     function (e, t, a) {},
+    function (e, t, a) {
+      var r = {
+        "./address_image.svg": 123,
+        "./animated_ashutosh.png": 124,
+        "./animated_logo.svg": 125,
+        "./blogs_image.svg": 126,
+        "./cloud_infrastructure.svg": 127,
+        "./codeInLogo.png": 128,
+        "./contactMail.png": 129,
+        "./coursera_logo.png": 130,
+        "./data_science.svg": 131,
+        "./deeplearning_ai_logo.png": 132,
+        "./delhivery_logo.png": 133,
+        "./developerActivity.svg": 134,
+        "./dsc_logo.png": 135,
+        "./education.svg": 136,
+        "./experience.svg": 137,
+        "./feelingProud.svg": 138,
+        "./freecopy_logo.png": 139,
+        "./fullstack.svg": 140,
+        "./gcp_logo.png": 141,
+        "./github_logo.png": 142,
+        "./googleAssistant.jpg": 143,
+        "./googleAssistant.svg": 144,
+        "./google_logo.png": 145,
+        "./ibm_logo.png": 146,
+        "./iiitk_logo.png": 147,
+        "./intel_logo.jpg": 148,
+        "./iu_logo.png": 149,
+        "./jsFramework.svg": 150,
+        "./legato_logo.png": 151,
+        "./manOnTable.svg": 152,
+        "./microsoft_logo.png": 153,
+        "./mozilla_logo.png": 154,
+        "./muffito_logo.png": 155,
+        "./nextuLogo.jpg": 156,
+        "./nptel_logo.png": 157,
+        "./portfolio.gif": 158,
+        "./programmer.svg": 159,
+        "./projects_image.svg": 160,
+        "./pwa.png": 161,
+        "./saayaHealthLogo.png": 162,
+        "./stanford_logo.png": 163,
+        "./talksCardBack.svg": 164,
+        "./talksCardBackAlt.svg": 165,
+        "./tiktok_logo.png": 166,
+        "./ui_ux_design.svg": 167,
+      };
+      function l(e) {
+        var t = s(e);
+        return a(t);
+      }
+      function s(e) {
+        if (!a.o(r, e)) {
+          var t = new Error("Cannot find module '" + e + "'");
+          throw ((t.code = "MODULE_NOT_FOUND"), t);
+        }
+        return r[e];
+      }
+      (l.keys = function () {
+        return Object.keys(r);
+      }),
+        (l.resolve = s),
+        (e.exports = l),
+        (l.id = 122);
+    },
     function (e, t, a) {
       e.exports = a.p + "static/media/address_image.16559172.svg";
     },
@@ -457,9 +457,9 @@
         i = a(288),
         c = a(20),
         m = a(303),
-        h = (a(95), a(96), a(6)),
+        h = (a(94), a(95), a(6)),
         d = a(5),
-        u = (a(97), a(3));
+        u = (a(96), a(3));
       const p = !0,
         g = {
           title: "Keshav's Portfolio",
@@ -766,7 +766,7 @@
           location_map_link: "https://maps.google.com/",
         },
         z = { title: "Phone Number", subtitle: "+1 (469) 422-2951" };
-      var I = a(79);
+      var I = a(78);
       var G = function () {
         var e, t, a, r, s, o, n, i, c, m, h, d, u;
         let p = [];
@@ -1007,7 +1007,7 @@
         }
       }
       var L = j,
-        Q = (a(111), a(112), a(22));
+        Q = (a(110), a(111), a(22));
       const P = Q.c.span`
   i {
     background-color: ${(e) => e.backgroundColor};
@@ -1045,7 +1045,7 @@
           )
         );
       }
-      a(113);
+      a(112);
       function q(e) {
         let { text: t, className: a, href: r, newTab: s, theme: o } = e;
         return l.a.createElement(
@@ -1136,13 +1136,13 @@
               l.a.createElement(
                 "div",
                 { className: "greeting-image-div" },
-                l.a.createElement("img", { src: a(114) })
+                l.a.createElement("img", { src: a(113) })
               )
             )
           )
         );
       }
-      a(62), a(115);
+      a(62), a(114);
       var W = a(302),
         J = a(300);
       class Y extends l.a.Component {
@@ -3510,7 +3510,7 @@
           l.a.createElement(se, { theme: t })
         );
       }
-      a(117);
+      a(116);
       function ne(e) {
         return l.a.createElement(
           "div",
@@ -3532,7 +3532,7 @@
           )
         );
       }
-      a(118);
+      a(117);
       function ie(e) {
         let { theme: t } = e;
         window.onscroll = function () {
@@ -3593,7 +3593,7 @@
         }
       }
       var me = ce;
-      a(119), a(120);
+      a(118), a(119);
       l.a.Component;
       function he(e) {
         return l.a.createElement(
@@ -3626,7 +3626,7 @@
         }
       }
       var ue = de;
-      a(121), a(122);
+      a(120), a(121);
       class pe extends r.Component {
         render() {
           const e = this.props.degree,
@@ -3647,7 +3647,7 @@
                       maxHeight: "100%",
                       transform: "scale(0.9)",
                     },
-                    src: a(63)("./" + e.logo_path),
+                    src: a(122)("./" + e.logo_path),
                     alt: e.alt_name,
                   })
                 )
@@ -5106,7 +5106,7 @@
         }
       }
       var Ke = Pe,
-        qe = a(87);
+        qe = a(86);
       class Ve extends r.Component {
         render() {
           const e = this.props.theme;
@@ -6101,10 +6101,7 @@
                   l.a.createElement(
                     "div",
                     { className: "contact-heading-img-div" },
-                    l.a.createElement("img", {
-                      src: a(63)("./" + it.profile_image_path),
-                      alt: "",
-                    })
+                    l.a.createElement("img", { alt: "" })
                   ),
                   l.a.createElement(
                     "div",
@@ -6422,7 +6419,7 @@
           )
         );
       }
-      var At = a(88);
+      var At = a(87);
       a(283);
       class Et extends r.Component {
         render() {
@@ -7420,6 +7417,6 @@
           });
     },
   ]),
-  [[90, 1, 2]],
+  [[89, 1, 2]],
 ]);
-//# sourceMappingURL=main.63766cac.chunk.js.map
+//# sourceMappingURL=main.4f4a90d3.chunk.js.map

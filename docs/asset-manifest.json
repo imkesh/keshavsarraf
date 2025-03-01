@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/keshavsarraf/static/css/main.d853f0a8.chunk.css",
-    "main.js": "/keshavsarraf/static/js/main.63766cac.chunk.js",
-    "main.js.map": "/keshavsarraf/static/js/main.63766cac.chunk.js.map",
+    "main.js": "/keshavsarraf/static/js/main.4f4a90d3.chunk.js",
+    "main.js.map": "/keshavsarraf/static/js/main.4f4a90d3.chunk.js.map",
     "runtime-main.js": "/keshavsarraf/static/js/runtime-main.9dd2211a.js",
     "runtime-main.js.map": "/keshavsarraf/static/js/runtime-main.9dd2211a.js.map",
-    "static/js/2.4e4e7f77.chunk.js": "/keshavsarraf/static/js/2.4e4e7f77.chunk.js",
-    "static/js/2.4e4e7f77.chunk.js.map": "/keshavsarraf/static/js/2.4e4e7f77.chunk.js.map",
+    "static/js/2.6c1240fd.chunk.js": "/keshavsarraf/static/js/2.6c1240fd.chunk.js",
+    "static/js/2.6c1240fd.chunk.js.map": "/keshavsarraf/static/js/2.6c1240fd.chunk.js.map",
     "index.html": "/keshavsarraf/index.html",
-    "precache-manifest.a26987c28d80cd1b6bb68fdab048323c.js": "/keshavsarraf/precache-manifest.a26987c28d80cd1b6bb68fdab048323c.js",
+    "precache-manifest.7e46a2c576d4c803a5bdf52e28abd429.js": "/keshavsarraf/precache-manifest.7e46a2c576d4c803a5bdf52e28abd429.js",
     "service-worker.js": "/keshavsarraf/service-worker.js",
     "static/css/main.d853f0a8.chunk.css.map": "/keshavsarraf/static/css/main.d853f0a8.chunk.css.map",
     "static/media/index.css": "/keshavsarraf/static/media/Montserrat-Regular.ee653992.ttf",
@@ -54,8 +54,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.9dd2211a.js",
-    "static/js/2.4e4e7f77.chunk.js",
+    "static/js/2.6c1240fd.chunk.js",
     "static/css/main.d853f0a8.chunk.css",
-    "static/js/main.63766cac.chunk.js"
+    "static/js/main.4f4a90d3.chunk.js"
   ]
 }
