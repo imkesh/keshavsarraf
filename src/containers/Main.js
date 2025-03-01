@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Route, Switch, BrowserRouter } from "react-router-dom";
+import { HashRouter, Route, Switch, BrowserRouter } from "react-router-dom";
 import Home from "../pages/home/HomeComponent";
 import Splash from "../pages/splash/Splash";
 import Education from "../pages/education/EducationComponent";
@@ -13,9 +13,9 @@ import Error404 from "../pages/errors/error404/Error";
 export default class Main extends Component {
   render() {
     return (
-      <BrowserRouter basename="/">
+      <BrowserRouter basename="/keshavsarraf">
         <Switch>
-          {/* <Route
+          <Route
             path="/"
             exact
             render={(props) =>
@@ -25,7 +25,7 @@ export default class Main extends Component {
                 <Home {...props} theme={this.props.theme} />
               )
             }
-          /> */}
+          />
           <Route
             path="/home"
             render={(props) => <Home {...props} theme={this.props.theme} />}
