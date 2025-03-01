@@ -7,7 +7,8 @@ function AnimatedSplash(props) {
   return (
     <div className="logo_wrapper">
       <div className="screen" style={{ backgroundColor: props.theme.splashBg }}>
-        <LoaderLogo id="logo" theme={props.theme} />
+        KS
+        {/* <LoaderLogo id="logo" theme={props.theme} /> */}
       </div>
     </div>
   );

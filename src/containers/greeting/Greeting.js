@@ -49,7 +49,9 @@ export default function Greeting(props) {
 							alt="saad sitting on table"
 							src={require("../../assets/images/feelingProud.svg")}
 						></img> */}
-            <FeelingProud theme={theme} />
+            {/* <FeelingProud theme={theme} /> */}
+            <img src={require(`./keshav.jpeg`)} />
+            {/* // src={require(`../../assets/images/${certificate.logo_path}`)} */}
           </div>
         </div>
       </div>

@@ -1,11 +1,29 @@
 {
   "data": [
     {
-      "id": "R_kgDOJWL0-g",
-      "name": "mdp-diffusion",
-      "createdAt": "2023-04-13T04:18:19Z",
-      "url": "https://github.com/ashutosh1919/mdp-diffusion",
-      "description": "Text-guided image editing by manipulating diffusion path without any training.",
+      "id": "accident-mitigation",
+      "name": "Accident Mitigation for Truck Fleets",
+      "createdAt": "2024-10-01T00:00:00Z",
+      "url": "https://github.com/imkesh/accident-mitigation-fleet",
+      "description": "Built big-data solutions analyzing telemetry with HiveQL & Spark, identifying accident-prone scenarios. Created predictive models for fleet safety.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "SQL",
+          "iconifyClass": "simple-icons:postgresql"
+        }
+      ]
+    },
+    {
+      "id": "automated-metrics-analytics",
+      "name": "Automated Metrics & Analytics Dashboard",
+      "createdAt": "2024-08-01T00:00:00Z",
+      "url": "https://github.com/imkesh/analytics-dashboard",
+      "description": "Developed a scalable ETL pipeline using Snowflake and AWS EMR/Redshift for data aggregation. Built interactive dashboards for real-time insights.",
       "isFork": false,
       "languages": [
         {
@@ -17,106 +35,66 @@
           "iconifyClass": "simple-icons:shell"
         },
         {
-          "name": "Jupyter Notebook",
-          "iconifyClass": "logos-jupyter"
+          "name": "AWS",
+          "iconifyClass": "simple-icons:amazonaws"
         }
       ]
     },
     {
-      "id": "R_kgDOG_vYHA",
-      "name": "explainable-cnn",
-      "createdAt": "2022-03-13T20:41:33Z",
-      "url": "https://github.com/ashutosh1919/explainable-cnn",
-      "description": "📦 PyTorch based visualization package for generating layer-wise explanations for CNNs.",
+      "id": "intelligent-log-monitoring",
+      "name": "Intelligent Log Monitoring & Alert System",
+      "createdAt": "2024-06-01T00:00:00Z",
+      "url": "https://github.com/imkesh/log-monitoring",
+      "description": "Real-time log ingestion with AWS Lambda & Kinesis. Deployed anomaly detection alerts, reducing operational downtime by 20%.",
       "isFork": false,
       "languages": [
         {
           "name": "Python",
           "iconifyClass": "logos-python"
+        },
+        {
+          "name": "AWS",
+          "iconifyClass": "simple-icons:amazonaws"
         }
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
+      "id": "trading-platform",
+      "name": "Comprehensive Trading Platform (Qi-Cap)",
+      "createdAt": "2023-10-01T00:00:00Z",
+      "url": "https://github.com/imkesh/trading-platform",
+      "description": "Designed a microservices-based terminal for high-frequency trading. Integrated real-time heatmaps, IV curves, and consolidated orders for low-latency performance.",
       "isFork": false,
       "languages": [
         {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
+          "name": "NodeJS",
+          "iconifyClass": "simple-icons:node-dot-js"
         },
         {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
+          "name": "C++",
+          "iconifyClass": "simple-icons:cplusplus"
         },
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "MongoDB",
+          "iconifyClass": "simple-icons:mongodb"
         },
         {
-          "name": "Dockerfile",
-          "iconifyClass": "simple-icons:docker"
+          "name": "Elasticsearch",
+          "iconifyClass": "simple-icons:elasticsearch"
         }
       ]
     },
     {
-      "id": "R_kgDOG0_8uQ",
-      "name": "react-awesome-shapes",
-      "createdAt": "2022-02-11T14:50:20Z",
-      "url": "https://github.com/ashutosh1919/react-awesome-shapes",
-      "description": "🌀 Insert Awesome Shapes into Your React Site with Ease.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "Shell",
-          "iconifyClass": "simple-icons:shell"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        }
-      ]
-    },
-    {
-      "id": "R_kgDOGcPKSQ",
-      "name": "neuro-symbolic-sudoku-solver",
-      "createdAt": "2021-11-26T17:56:07Z",
-      "url": "https://github.com/ashutosh1919/neuro-symbolic-sudoku-solver",
-      "description": "⚙️ Solving sudoku using Deep Reinforcement learning in combination with powerful symbolic representations.",
+      "id": "chatbot-nlp",
+      "name": "Company-Specific NLP Chatbot",
+      "createdAt": "2025-02-14T00:00:00Z",
+      "url": "https://github.com/imkesh/nlp-chatbot",
+      "description": "NLP-driven chatbot to answer queries from user-uploaded PDFs. Utilizes advanced text classification and retrieval for domain-specific Q&A.",
       "isFork": false,
       "languages": [
         {
           "name": "Python",
           "iconifyClass": "logos-python"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
-      "name": "react-liquidswipe",
-      "createdAt": "2021-01-01T08:31:51Z",
-      "url": "https://github.com/ashutosh1919/react-liquidswipe",
-      "description": "🚀 Smooth Liquid Swipe Animation to transition between different components.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
         }
       ]
     }
