@@ -7255,7 +7255,7 @@
         render() {
           return l.a.createElement(
             h.a,
-            { basename: "/keshavsarraf" },
+            null,
             l.a.createElement(
               d.d,
               null,
@@ -7419,4 +7419,4 @@
   ]),
   [[89, 1, 2]],
 ]);
-//# sourceMappingURL=main.a5cabbc6.chunk.js.map
+//# sourceMappingURL=main.f6472452.chunk.js.map

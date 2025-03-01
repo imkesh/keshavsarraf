@@ -13,8 +13,8 @@ import Error404 from "../pages/errors/error404/Error";
 export default class Main extends Component {
   render() {
     return (
-      // <HashRouter>
-      <BrowserRouter basename="/keshavsarraf">
+      <HashRouter>
+        {/* <BrowserRouter basename="/keshavsarraf"> */}
         <Switch>
           <Route
             path="/"
@@ -75,7 +75,8 @@ export default class Main extends Component {
             render={(props) => <Error404 {...props} theme={this.props.theme} />}
           />
         </Switch>
-      </BrowserRouter>
+        {/* </BrowserRouter> */}
+      </HashRouter>
     );
   }
 }
